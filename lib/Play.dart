@@ -4,8 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fortune_wheel/flutter_fortune_wheel.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-
-import 'Fun.dart';
 import 'Function.dart';
 
 class Play extends StatefulWidget {
